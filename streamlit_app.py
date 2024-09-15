@@ -257,7 +257,7 @@ if st.session_state.authenticated:
         color: white;
         font-family: 'Roboto', sans-serif;
         font-weight: bold;
-        text-align: right;
+        text-align: center;
         padding: 10px;
         box-sizing: border-box; /* Ensures padding doesn't affect width */
     }
